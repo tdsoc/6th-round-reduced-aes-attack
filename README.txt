@@ -4,6 +4,7 @@ VERSION:	1.0
 DATE:		20/09/2013
 
 Description:
+
 The Partial Sum Attack on 6-round reduced AES
 
 The Partial Sum Attack is one of the most powerful attacks on reduced-round
